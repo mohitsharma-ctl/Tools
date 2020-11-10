@@ -1,4 +1,4 @@
-Tools required during installation
+Tools required during installation of new distro
 
 ## IDE
 
