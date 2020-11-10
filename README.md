@@ -7,7 +7,7 @@ Tools required during installation
  2. Sublime Text
 
 
-## Lang and modules
+## Lang
 
  1. Golang
  
