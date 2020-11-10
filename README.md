@@ -19,9 +19,13 @@ Tools required during installation of new distro
 
 ## Web Tools
 
-1. Xampp
+ 1. Xampp
 
-2. Google Chrome
+ 2. Google Chrome
 
-3. git
+ 3. git
+
+# Themes
+ 1. gnome-tweaks
+
 
