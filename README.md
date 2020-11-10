@@ -23,3 +23,5 @@ Tools required during installation
 
 2. Google Chrome
 
+3. git
+
