@@ -14,6 +14,12 @@ Tools required during installation of new distro
  2. C/C++
  
  2. Python
+         requests
+         BeautifulSoup4
+         numpy
+         pandas
+         matplotlib
+         
  
  3. Java
 
