@@ -37,3 +37,7 @@ Tools required during installation of new distro
 ```python3
 print("hello world")
 ```
+
+```shell
+echo "hello world"
+```
