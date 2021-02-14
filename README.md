@@ -15,7 +15,7 @@ Tools required during installation of new distro
  
  2. Python
        *  requests
-       *  BeautifulSoup4
+       *  bs4
        *  numpy
        *  pandas
        *  matplotlib
