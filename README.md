@@ -4,7 +4,7 @@ Tools required during installation of new distro
 
  1. VS CODE
 
- 2. Sublime Text
+ 2. sublime text
 
 
 ## Lang
