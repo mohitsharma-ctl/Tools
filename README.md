@@ -34,4 +34,10 @@ Tools required during installation of new distro
 # Themes
  1. gnome-tweaks
 
-
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
