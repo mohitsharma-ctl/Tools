@@ -34,10 +34,10 @@ Tools required during installation of new distro
 # Themes
  1. gnome-tweaks
 
-```python3
-print("hello world")
 ```
-
-```shell
-echo "hello world"
-```
+#include<stdio.h>
+#include<iostream>
+int main(){
+cout<<"hello world";
+return 0;
+}
