@@ -35,6 +35,7 @@ Tools required during installation of new distro
  1. gnome-tweaks
 
 ```
+c++
 #include<stdio.h>
 #include<iostream>
 int main(){
