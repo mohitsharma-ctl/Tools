@@ -2,7 +2,7 @@ Tools required during installation of new distro
 
 ## IDE
 
- 1. VS CODE
+ 1. vs code
 
  2. sublime text
 
