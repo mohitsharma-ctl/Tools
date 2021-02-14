@@ -34,8 +34,7 @@ Tools required during installation of new distro
 # Themes
  1. gnome-tweaks
 
-```
-c++
+```c++
 #include<stdio.h>
 #include<iostream>
 int main(){
