@@ -27,7 +27,7 @@ Tools required during installation of new distro
 
  1. xampp
 
- 2. Google Chrome
+ 2. google chrome
 
  3. git
 
