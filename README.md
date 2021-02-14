@@ -25,7 +25,7 @@ Tools required during installation of new distro
 
 ## Web Tools
 
- 1. Xampp
+ 1. xampp
 
  2. Google Chrome
 
