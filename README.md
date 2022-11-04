@@ -33,3 +33,11 @@ Tools required during installation of new distro
 
 # Themes
  1. gnome-tweaks
+ 
+ # Extensions
+ 
+  1. Unhook        //blocking youtube comments , timeline etc
+  
+  2. Ublock origin //blocking adds and whatsapp status
+  
+  3. Adbloc        //Blocking ads
