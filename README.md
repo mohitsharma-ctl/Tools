@@ -4,7 +4,11 @@ Tools required during installation of new distro
 
  1. vs code
 
- 2. sublime text
+ 2 Intellij
+ 
+ 3 Eclipse
+ 
+ 4 Pycharm
 
 
 ## Lang
@@ -27,9 +31,11 @@ Tools required during installation of new distro
 
  1. xampp
 
- 2. google chrome
+ 2. Google chrome
 
  3. git
+
+ 4. Mongodb 
 
 # Themes
  1. gnome-tweaks
